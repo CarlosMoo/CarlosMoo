@@ -13,3 +13,8 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 | [<img src="assets/postgres.svg" title="postgres" alt="postgres" width="40">](https://www.postgresql.org/) | 
 | --------------------------------------------------------------------------------------------------------------------------- |
+
+### Tools & other technologies :hammer_and_wrench:
+
+| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
