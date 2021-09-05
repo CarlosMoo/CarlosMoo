@@ -1,6 +1,6 @@
 # Hi there, Welcome to my Github Profile👋
 
-I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, student of **[ITM](https://www.itmerida.mx/)** of the **Computer Systems Engineering** career. I am passionate about **FrontEnd Development** and **Graphic Design**.
+I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, student of **[ITM](https://www.itmerida.mx/)** of the **Computer Systems Engineering** career. I'm passionate about **FrontEnd Development** and **Graphic Design**.
 
 ## Skills
 
@@ -33,3 +33,18 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 | [<img src="assets/canva.png" title="canva" alt="canva" width="70">](https://www.canva.com/) | [<img src="assets/adobexd.png" title="adobexd" alt="adobexd" width="70">](https://www.adobe.com/mx/products/xd.html) | [<img src="assets/photoshop.png" title="photoshop" alt="photoshop" width="70">](https://www.adobe.com/mx/products/photoshop.html) | [<img src="assets/Illustrator.png" title="illustrator" alt="illustrator" width="70">](https://www.adobe.com/mx/products/illustrator.html) | 
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | 
+
+## Facts
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on: **Residence Project at the [ITM](https://www.itmerida.mx/).**
+- 🌱 I’m currently learning: **JavaScript, VueJs, Python / Django, Java and Kotlin.**
+- 👯 I’m looking to collaborate on: **Web development projects.**
+- 💬 Ask me about: **Things you would like to know about, my hobbies, my knowledge and projects in mind.**
+- 🤔 I’m looking for: **help with jobs/intern related to web development.**
+- 📫 How to reach me: **Contact me on [LinkedIn](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)/[Facebook](https://www.facebook.com/carlosivan.mb/).**
+- ⚡ Fun fact: **I like bitter coffee and butter cookies.**
+
+
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/rnovec)! :v:
