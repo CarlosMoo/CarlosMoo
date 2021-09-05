@@ -39,7 +39,7 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **Residence Project at the [ITM](https://www.itmerida.mx/).**
-- 🌱 I’m currently learning: **JavaScript, VueJs, Python / Django, Java and Kotlin.**
+- 🌱 I’m currently learning: **JavaScript, VueJs, Python / Django, Java, Kotlin, and lately Ruby.**
 - 👯 I’m looking to collaborate on: **Web development projects.**
 - 💬 Ask me about: **Things you would like to know about, my hobbies, my knowledge and projects in mind.**
 - 🤔 I’m looking for: **help with jobs/intern related to web development.**
