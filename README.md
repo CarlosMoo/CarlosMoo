@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I like bitter coffee and butter cookies.**
 
 
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/rnovec)! :v:
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/carlosmoo)! :v:
