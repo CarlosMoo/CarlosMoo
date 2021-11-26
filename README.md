@@ -6,8 +6,8 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 ### Programming Languages :computer:
 
-| [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" title="python" alt="python" width="50">](https://www.python.org/) | [<img src="assets/java.png" title="ts" alt="ts" width="30">](https://www.java.com/es/) |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" title="python" alt="python" width="50">](https://www.python.org/) | [<img src="assets/java.png" title="java" alt="java" width="30">](https://www.java.com/es/) | [<img src="assets/PHP.png" title="php" alt="php" width="30">](https://www.php.net/) |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 
 ### Databases :floppy_disk:
 
@@ -21,8 +21,8 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 ### Frameworks FrontEnd :package:
 
-| [<img src="assets/vue.png" title="vue" alt="vue" width="40">](https://vuejs.org/) | [<img src="assets/react.png" title="react" alt="react" width="40">](https://es.reactjs.org/) | 
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [<img src="assets/vue.png" title="vue" alt="vue" width="40">](https://vuejs.org/) | [<img src="assets/react.png" title="react" alt="react" width="40">](https://es.reactjs.org/) | [<img src="assets/Angular.png" title="angular" alt="angular" width="40">](https://angular.io/) | 
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
 ### Frameworks BackEnd :package:
 
