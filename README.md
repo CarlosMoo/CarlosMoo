@@ -32,7 +32,11 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, **Co
 ### Design Tools :art:
 
 | [<img src="assets/canva.png" title="canva" alt="canva" width="70">](https://www.canva.com/) | [<img src="assets/adobexd.png" title="adobexd" alt="adobexd" width="70">](https://www.adobe.com/mx/products/xd.html) | [<img src="assets/photoshop.png" title="photoshop" alt="photoshop" width="70">](https://www.adobe.com/mx/products/photoshop.html) | [<img src="assets/Illustrator.png" title="illustrator" alt="illustrator" width="70">](https://www.adobe.com/mx/products/illustrator.html) | 
-| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | 
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+
+## Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosMoo&show_icons=true&locale=en&layout=compact" alt="carlosmoo"/></p>
 
 ## Facts
 
