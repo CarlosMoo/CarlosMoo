@@ -26,8 +26,8 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 ### Frameworks BackEnd :package:
 
-| [<img src="assets/nodejs.png" title="node" alt="node" width="70">](https://nodejs.org/es/) | [<img src="assets/django.png" title="django" alt="django" width="70">](https://www.djangoproject.com/) |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [<img src="assets/nodejs.png" title="node" alt="node" width="70">](https://nodejs.org/es/) | [<img src="assets/django.png" title="django" alt="django" width="70">](https://www.djangoproject.com/) | [<img src="assets/NET-Core.png" title="netcore" alt="netcore" width="70">](https://dotnet.microsoft.com/en-us/) |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
 ### Design Tools :art:
 
