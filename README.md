@@ -16,8 +16,8 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 ### Tools & other technologies :hammer_and_wrench:
 
-| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/VS-Code-2022-2.png" width="40">](https://visualstudio.microsoft.com/es/vs/) |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" title="vscode" alt="vscode" width="40">](https://code.visualstudio.com/) | [<img src="assets/VS-Code-2022-2.png" title="vs2022" alt="vs2022" width="40">](https://visualstudio.microsoft.com/es/vs/) | [<img src="assets/Power-Bi.png" title="powerbi" alt="powerbi" width="40">](https://powerbi.microsoft.com/es-es/) |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
 ### Frameworks FrontEnd :package:
 
