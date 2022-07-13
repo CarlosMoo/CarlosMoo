@@ -11,7 +11,7 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 ### Databases :floppy_disk:
 
-| [<img src="assets/postgres.svg" title="postgres" alt="postgres" width="40">](https://www.postgresql.org/) | [<img src="assets/postgres.svg" title="sqlserver" alt="sqlserver" width="40">]([https://www.postgresql.org/](https://www.microsoft.com/en-us/sql-server)) |
+| [<img src="assets/postgres.svg" title="postgres" alt="postgres" width="40">](https://www.postgresql.org/) | [<img src="assets/SQL-Server.png" title="sqlserver" alt="sqlserver" width="40">](https://www.microsoft.com/en-us/sql-server) |
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 
 ### Tools & other technologies :hammer_and_wrench:
