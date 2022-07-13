@@ -1,6 +1,6 @@
 # Hi there, Welcome to my Github Profile👋
 
-I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, student of **[ITM](https://www.itmerida.mx/)** of the **Computer Systems Engineering** career. I'm passionate about **FrontEnd Development** and **Graphic Design**.
+I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, **Computer Systems Engineer** graduated from **[ITM](https://www.itmerida.mx/)**. I'm passionate about **FrontEnd Development** and **Graphic Design**.
 
 ## Skills
 
@@ -38,7 +38,7 @@ I'm **[Carlos Moo](https://www.linkedin.com/in/carlos-ivan-moo-barrera/)**, stud
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: **Residence Project at the [ITM](https://www.itmerida.mx/).**
+- 🔭 I’m currently working on: **[Stuller](https://www.stuller.com/)** as a **Software Developer**.
 - 🌱 I’m currently learning: **JavaScript, VueJs, Python / Django, Java, Kotlin, and lately Ruby.**
 - 👯 I’m looking to collaborate on: **Web development projects.**
 - 💬 Ask me about: **Things you would like to know about, my hobbies, my knowledge and projects in mind.**
